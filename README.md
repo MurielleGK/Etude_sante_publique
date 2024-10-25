@@ -1,3 +1,4 @@
+#### Projet effectué dans le cadre de ma formation chez OpenClassrooms
 # Étude de Santé Publique avec R ou Python
 
 ## Contexte du Projet
@@ -47,8 +48,4 @@ Ce projet d'étude, réalisé dans le cadre de ma formation en data analysis, m'
 
 - **Jupyter Notebook** contenant l'intégralité des analyses.
 - **Rapport** synthétisant les principaux résultats et recommandations.
-
-## Contact
-
-Pour en savoir plus sur ce projet d'étude, n'hésitez pas à consulter le [notebook sur GitHub](#) ou à me contacter via [mon profil LinkedIn](#).
 
